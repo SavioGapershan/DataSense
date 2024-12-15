@@ -10,7 +10,7 @@ Below are the step-by-step instructions to set up and run the project.
 🔑 1. Create a SerpAPI Key
 Follow this video tutorial to create your SerpAPI key:
 
-[![Scraping Google Maps using SerpApi and Node.js](![image](https://github.com/user-attachments/assets/32e5dab9-84c0-4147-9f45-28214a8fbf23)
+[![Scraping Google Maps using SerpApi and Node.js](https://i.ytimg.com/an_webp/emFKwWLR4Ok/mqdefault_6s.webp?du=3000&sqp=CLD5-roG&rs=AOn4CLCVT_sGzrCY9WLUEa_vUrWtozMbug
 )](https://www.youtube.com/results?search_query=Scraping+Google+Maps+using+SerpApi+and+Node.js)
 
 Save your API Key for later use.
@@ -18,6 +18,8 @@ Save your API Key for later use.
 # **🔑 2. Create a Gemini API Key**
 Follow this video tutorial to create your Gemini API key:
 
+[![Gemini AI API with Python Latest Tutorial](https://i.ytimg.com/an_webp/pTcunloZ-_o/mqdefault_6s.webp?du=3000&sqp=CMj4-roG&rs=AOn4CLDTZRbyBRlcGbM5ltL3Ket92j3iTw
+)](https://www.youtube.com/watch?v=pTcunloZ-_o)
 
 Save your API Key for later use.
 
@@ -61,6 +63,9 @@ Folder Overview:-
 # **🔧 Step 4: Setting Up the Google Sheets API**
 🔑 1. Enable Google Sheets API
 Follow this tutorial to enable the Google Sheets API and download the credentials JSON file.
+
+[![Automate Google Sheets With Python - Google Sheets API Tutorial](https://i.ytimg.com/an_webp/zCEJurLGFRk/mqdefault_6s.webp?du=3000&sqp=CIzp-roG&rs=AOn4CLCicMQoQQHoe653Bqwh0sTClU-9Cg
+)](https://www.youtube.com/watch?v=zCEJurLGFRk)
 
 Save the credentials file as credentials.json in the project root.
 
