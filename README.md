@@ -85,12 +85,17 @@ python app.py
 Open your browser and go to:
 http://127.0.0.1:5000/
 
+![image](https://github.com/user-attachments/assets/093f95f0-4a4c-4d88-86dd-3c12d3de9f1d)
+
+
 # **🎨 Step 6: Using the Dashboard**
 📂 1. Upload Your Data
 Use the "Upload File" button to upload a CSV file.
 Or, connect to a Google Sheet by entering the sheet URL.
 # **📋 2. Define the Main Column**
 Select the primary column (e.g., company names) to perform searches for each entity.
+
+
 # **💡 3. Input Your Query Template**
 Define a custom query with placeholders, e.g.,: 
 
@@ -101,12 +106,15 @@ Get me the official email address of {entity}.
 # **🔍 4. Start the Search**
 Click "Search" to perform automated web searches and retrieve data. 
 
+![image](https://github.com/user-attachments/assets/8ce75552-f06a-459d-970d-ab5db653a4e2)
+
 # **📥 Step 7: Downloading Results**
 📊 View Results
 The dashboard will display the retrieved data in a structured table.
 📂 Download Results
 Use the "Download CSV" button to save the results locally.
 Or, update your Google Sheet with the retrieved data. 
+![image](https://github.com/user-attachments/assets/edccf348-77dd-4189-93f3-6d31c6686bb9)
 
 # **📋 Conclusion**
 By following these steps, you can successfully set up and run the AI-powered data retriever. With this project, users can automate web searches, retrieve structured data, and complete tables using AI. 
