@@ -1,0 +1,2 @@
+"Extract the {field} of {company} from the following web results."
+
