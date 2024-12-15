@@ -123,3 +123,11 @@ Or, update your Google Sheet with the retrieved data.
 
 # **📋 Conclusion**
 By following these steps, you can successfully set up and run the AI-powered data retriever. With this project, users can automate web searches, retrieve structured data, and complete tables using AI. 
+
+# **📽️ Demo Video**
+
+Watch this step-by-step guide to see the project in action:
+
+[![Datasense](https://i9.ytimg.com/vi/iz3KAGQG-tk/mqdefault.jpg?sqp=CPCS-7oG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRyhiMA8=&rs=AOn4CLCMF6Pu_az52XpfuaAUQiMpXZ0Pdw
+)](https://youtu.be/iz3KAGQG-tk)
+
