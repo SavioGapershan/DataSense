@@ -128,6 +128,6 @@ By following these steps, you can successfully set up and run the AI-powered dat
 
 Watch this step-by-step guide to see the project in action:
 
-[![Datasense](https://i9.ytimg.com/vi/iz3KAGQG-tk/mqdefault.jpg?sqp=CPCS-7oG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRyhiMA8=&rs=AOn4CLCMF6Pu_az52XpfuaAUQiMpXZ0Pdw
-)](https://youtu.be/iz3KAGQG-tk)
+[![Datasense](https://i9.ytimg.com/vi/Nl_sVtbXln4/mqdefault.jpg?sqp=CKCc-7oG-oaymwEmCMACELQB8quKqQMa8AEB-AHMBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLBBVr2w3Cmm5VUdMtttlHDKjm9T4g
+)](https://youtu.be/Nl_sVtbXln4)
 
